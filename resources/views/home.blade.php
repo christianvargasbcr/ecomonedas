@@ -19,7 +19,7 @@
                 <br>
                 <div id="myTabContent" class="tab-content" style="color: #1c7430">
                     <div class="tab-pane fade active show" id="home">
-                        <p>Raw denim you probably haven't heard of them jean shorts Austin.</p>
+                        <p>Raw denim you probably haven't heard of them jean shorts Austin</p>
                         <p>Nesciunt tofu stumptown aliqua, retro synth master cleanse.</p>
                         <p>Mustache cliche tempor, williamsburg carles vegan helvetica.</p>
                         <p>Reprehenderit butcher retro keffiyeh dreamcatcher synth.</p>
